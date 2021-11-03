@@ -10,7 +10,7 @@ I write scripts that optimize your computer usage, using Suckless's Dmenu, and o
 # Software I use
 
 ## Window Manager
-[Qtile](https://qtile.org/)
+[Qtile](https://www.qtile.org/)
 
 I have my own configs on Github. It is just amazing. It is configured in python.
 
