@@ -10,15 +10,14 @@ I write scripts that optimize your computer usage, using Suckless's Dmenu, and o
 # Software I use
 
 ## Window Manager
-[Suckless's DWM](https://dwm.suckless.org/)
+[Qtile](https://qtile.org/)
 
-I have my own build on Github. It is just amazing. It is minimal by default, but you patch it with their [patches](https://dwm.suckless.org/patches/).
+I have my own configs on Github. It is just amazing. It is configured in python.
 
 ## Distro
-[Artix with Runit](https://artixlinux.org/)
+[Void](https://voidlinux.org/)
 
-I use Artix With Runit, Runit is an alternative to Systemd, I don't hate Systemd, I just prefer Runit or OpenRC.
-Otherwise Artix is just Arch.
+I use Void With Runit, Runit is an alternative to Systemd, I don't hate Systemd, I just prefer Runit or OpenRC.
 
 ## Editor
 
@@ -29,8 +28,7 @@ A terminal editor
 It seems to be the best out there. It has all the features I need, and barley any bloat (It isn't electron LOL)
 
 ## Terminal
-[St](https://st.suckless.org/)
-
-It is also Suckless. It is minimal and I patch it.
+[Alacritty](https://alacritty.org/)
+Rust and GPU Accelerated.
 
 # Thank You!
