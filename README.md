@@ -9,11 +9,6 @@ Not much of note, I will have my window manager configs, scripts, and other soft
 
 # Software I use
 
-## Window Manager
-[dwm](https://suckless.org/)
-
-I have my own configs on Github. It is just amazing. It is configured in python.
-
 ## OS 
 MacOS Big Sur, because I'm testing it out to see how I like it, but I probably will be back on Linux very soon.
 
