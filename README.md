@@ -1,34 +1,32 @@
 # Who am I? 
 
-My name is Jackson, I am 13 years old and would like to call myself an advanced Linux user. I like to write scripts, configure and modify software, and just mess 
+My name is Jackson, I am 14 years old and a person who loves software. I like to write scripts, configure and modify software, and just mess 
 around with my computer.
 
 # What do I do?
  
-I write scripts that optimize your computer usage, using Suckless's Dmenu, and other Linux system utillities.
+Not much of note, I will have my window manager configs, scripts, and other software things here, but not alot of *good* code, because I'm still learning.
 
 # Software I use
 
 ## Window Manager
-[Qtile](https://www.qtile.org/)
+[dwm](https://suckless.org/)
 
 I have my own configs on Github. It is just amazing. It is configured in python.
 
-## Distro
-[Void](https://voidlinux.org/)
-
-I use Void With Runit, Runit is an alternative to Systemd, I don't hate Systemd, I just prefer Runit or OpenRC.
+## OS 
+MacOS Big Sur, because I'm testing it out to see how I like it, but I probably will be back on Linux very soon.
 
 ## Editor
 
-[Neovim](https://github.com/neovim/neovim)
+[Emacs](https://emacs.org)
 
-A terminal editor
+A highly configurable free software editor.
 
-It seems to be the best out there. It has all the features I need, and barley any bloat (It isn't electron LOL)
 
 ## Terminal
 [Alacritty](https://alacritty.org/)
 Rust and GPU Accelerated.
 
-# Thank You!
+# Updates:
+- Probably moving everything over to [Gitlab](https://gitlab.com/sparkpc) soon
