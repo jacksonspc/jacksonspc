@@ -1,0 +1,21 @@
+* Who am I?
+My name is Jackson, I am 14 years old and a person who loves software. I
+like to write scripts, configure and modify software, and just mess
+around with my computer.
+* What do I do?
+Not much of note, I will have my window manager configs, scripts, and
+other software things here, but not alot of /good/ code, because I'm
+still learning.
+* Software I use
+** OS
+Arch Linux
+** Window Manager
+Depends on the day, as of July 13th, 2022, Qtile.
+** Shell
+Zsh
+** Editor
+[[https://emacs.org][Emacs]]
+A highly configurable free software editor.
+** Terminal
+[[https://alacritty.org/][Alacritty]] Rust and GPU Accelerated.
+* Updates:
